@@ -57,19 +57,6 @@ A backend-focused project exploring advanced API architecture and database optim
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Belal.echo&show_icons=true&hide=prs,issues&theme=radical&bg_color=1a1b27&title_color=70a5fd&text_color=bf91f3" alt="Belal's GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belal.echo&layout=compact&theme=radical&bg_color=1a1b27&title_color=70a5fd&text_color=bf91f3" alt="Top Languages" /></td>
-    </tr>
-  </table>
-</div>
-
----
-
 <p align="center">
   <em>"Always learning. Always building." 🚀</em>
 </p>
