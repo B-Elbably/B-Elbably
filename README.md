@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="belal.png" width="160" style="border-radius: 50%; border: 4px solid #1F8ACB; box-shadow: 0 8px 16px rgba(0,0,0,0.2);" alt="Belal's Avatar" />
+  <img src="belal.png" width="160" style="border-radius: 50%; border: 3px solid #1F8ACB; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" alt="Belal Elbably" />
   
-  <h1>Hi, I'm Belal Elbably 👋</h1>
+  <h1>Hi there, I'm Belal Elbably! 👋</h1>
   
   <h3>Software Engineer | Codeforces Expert (1646) | Community Leader</h3>
   
   <p>
-    <strong>Damietta University '27</strong> • <em>Transforming complex logic into scalable backend systems.</em>
+    <strong>Damietta University '27</strong> • <em>Solving the unsolvable, one algorithm at a time.</em>
   </p>
 
   <a href="https://linkedin.com/in/elbably">
@@ -18,61 +18,71 @@
   <a href="https://codeforces.com/profile/Belal.echo">
     <img src="https://img.shields.io/badge/Codeforces-Expert-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" />
   </a>
+  <a href="https://leetcode.com/u/belalelbably700/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </div>
 
 <br />
 
-### 🚀 The Brief
-I bridge the gap between **high-level competitive programming** and **robust backend engineering**. With a track record of **3,000+ solved problems** across major online judges, I specialize in architecting systems where performance and algorithmic efficiency are non-negotiable.
+---
 
-*   🔭 **Currently:** Engineering real-time backend solutions and leading the competitive programming community at Damietta University.
-*   🧠 **Expertise:** Advanced Data Structures (Segment Trees, Sparse Tables), Dynamic Programming, and RESTful API Architecture.
-*   🤝 **Leadership:** President & Community Leader at **ACPC Damietta University** and Head of CP at **IEEE Damietta**.
+### 🚀 The Engineering Mindset
+
+I am a Software Engineer who treats every project as an algorithmic challenge. My foundation is built on **3,000+ solved problems** across major platforms, giving me the unique ability to architect backend systems that are not just functional, but mathematically optimal.
+
+*   🔭 **Focus:** Building high-performance, real-time backend architectures.
+*   🧠 **Core Logic:** Expert-level mastery of Graph Theory, Dynamic Programming, and Advanced Data Structures (Segment Trees, Sparse Tables).
+*   📈 **Competitive Edge:** Codeforces Expert, IEEEXtreme Global Rank 911, and ECPC University Qualifier (Rank 18/300+).
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Stack
 
-| Category | Tools & Technologies |
+| Category | Technologies |
 | :--- | :--- |
 | **Languages** | `C++ (Expert)`, `JavaScript (ES6+)`, `TypeScript`, `Python`, `SQL` |
-| **Backend** | `Node.js`, `Express.js`, `Socket.IO`, `REST APIs`, `JWT`, `Cron Jobs` |
+| **Backend** | `Node.js`, `Express.js`, `Socket.IO`, `RESTful APIs`, `JWT`, `Cron Jobs` |
 | **Databases** | `PostgreSQL`, `MongoDB`, `MySQL`, `SQL Server`, `Neo4j`, `Redis` |
-| **DevOps & Tools** | `Git`, `Docker`, `Linux`, `Postman`, `Jest (Unit Testing)`, `Vercel` |
+| **Infrastructure** | `Git`, `Docker`, `Linux`, `Vercel`, `Railway`, `Jest (Unit Testing)` |
 
 ---
 
-### 💻 Featured Repositories
+### 🏛️ Leadership & Mentoring
+
+Engineering is a team sport. Beyond writing code, I am deeply committed to scaling the technical community at Damietta University.
+
+*   **President & Community Leader @ ACPC Damietta University:** Orchestrating strategy for 4 committees and supervising technical growth for the campus's largest programming community.
+*   **Technical Head & Mentor:** Designed a comprehensive DSA curriculum and directed training for **500+ students**, leading a team of **40 mentors** to prepare university teams for national qualifiers.
+*   **Head of CP Committee @ IEEE Damietta Branch:** Spearheading advanced workshops and intensive problem-solving sessions.
+
+---
+
+### 💻 Key Projects
 
 #### 🚄 [Railway to ACPC](https://github.com/B-Elbably/Railway-to-ACPC) 
 *An 8-month roadmap and implementation library for national-level contest preparation.*
-*   **Impact:** Contains 50+ optimized C++ templates for advanced data structures.
-*   **Tech:** C++, Competitive Programming, Algorithms.
+*   **Impact:** Developed 50+ optimized C++ templates for advanced data structures used by university teams.
+*   **Focus:** Algorithmic Efficiency, Performance Optimization.
 
 #### 📡 [ACPC-DU Echo](https://github.com/B-Elbably/CF-Echo)
-*A real-time ranking and community archival system.*
-*   **Impact:** Engineered with WebSockets for live updates and MongoDB aggregation for high-concurrency performance.
-*   **Tech:** Node.js, Express, MongoDB, Socket.IO.
-
-#### 🏛️ [Turath](https://github.com/B-Elbably/Turath)
-*A heritage content platform focused on advanced API design.*
-*   **Impact:** Implemented MVC architecture and complex data modeling for scalable content delivery.
-*   **Tech:** Express.js, MongoDB, Mongoose.
+*A real-time community ranking and archival system.*
+*   **Impact:** Engineered a WebSocket-driven backend for live data synchronization with MongoDB aggregation for high-concurrency performance.
+*   **Focus:** Real-time Systems, Scalable Architecture.
 
 ---
 
-### 🏆 Milestone Stats
+### 📊 Competitive Profiles
+*   **Codeforces:** [Belal.echo](https://codeforces.com/profile/Belal.echo) (Expert, Max 1646)
+*   **CSES:** [User 277252](https://cses.fi/user/277252)
+*   **LeetCode:** [belalelbably700](https://leetcode.com/u/belalelbably700/)
+
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B-Elbably&show_icons=true&theme=tokyonight&count_private=true" alt="Belal's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Elbably&theme=tokyonight" alt="Belal's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=B-Elbably&show_icons=true&theme=tokyonight&count_private=true" alt="Belal's Stats" />
 </div>
 
----
-
-### 💬 Let's Connect
-Whether it's discussing **Graph Theory**, **System Design**, or **Community Building**, I'm always open to interesting conversations.
-
 <p align="center">
-  <em>"Optimization is not just a task; it's a mindset."</em> 🚀
+  <em>"The power of problem solving is the ability to see the simple logic within the most complex chaos."</em> 🚀
 </p>
