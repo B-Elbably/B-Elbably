@@ -48,7 +48,7 @@ I believe in scaling impact through knowledge sharing. My leadership roles invol
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `C++ (Expert)`, `JavaScript (ES6+)`, `TypeScript`, `Python`, `SQL` |
+| **Languages** | `C++ (Problem Solving)`, `JavaScript (ES6+)`, `TypeScript`, `Python`, `SQL` |
 | **Backend** | `Node.js`, `Express.js`, `Socket.IO`, `RESTful APIs`, `JWT`, `Cron Jobs` |
 | **Databases** | `PostgreSQL`, `MongoDB`, `MySQL`, `Neo4j`, `Redis`, `SQL Server` |
 | **Environment** | `Git`, `Docker`, `Linux`, `Vercel`, `Railway`, `Jest (Unit Testing)` |
