@@ -1,82 +1,62 @@
 <div align="center">
-  <img src="assets/belal.png" width="160" style="border-radius: 50%; border: 3px solid #1F8ACB; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" alt="Belal Elbably" />
-  
-  <h1>Hi, I'm Belal Elbably! 👋</h1>
-  
-  <h3>Software Engineer | Codeforces Expert (1646) | Community Leader</h3>
-  
-  <p>
-    <strong>Damietta University '27</strong> • <em>Converting complex logic into high-performance systems.</em>
-  </p>
 
-  <a href="https://linkedin.com/in/elbably">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:belal.m.elbably@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/Belal.echo">
-    <img src="https://img.shields.io/badge/Codeforces-Expert-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" />
-  </a>
+<img src="assets/belal.png" width="150" alt="Belal Elbably" />
+
+# Belal Elbably
+
+**Software Engineer · Codeforces Expert (1646) · Community Leader**
+
+Damietta University '27 — turning complex logic into high-performance systems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elbably)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belal.m.elbably@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-FFD700?style=for-the-badge&logo=codeforces&logoColor=black)](https://codeforces.com/profile/Belal.echo)
+[![LeetCode](https://img.shields.io/badge/LeetCode-belalelbably700-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/belalelbably700/)
+
 </div>
 
-<br />
-
 ---
 
-### 🚀 The Power of Problem Solving
+## 👋 About
 
-I am a Software Engineer who views code through an algorithmic lens. With a proven track record of solving **3,000+ complex problems** across major online judges, I specialize in building backend architectures that prioritize efficiency, scalability, and mathematical correctness.
+I'm a software engineer who looks at code through an algorithmic lens. After solving **3,000+ problems** on major online judges, I focus on backend systems where efficiency, scalability and mathematical correctness matter.
 
-*   🔭 **Focus:** Architecting real-time backend systems and high-performance APIs.
-*   🧠 **Deep Knowledge:** Expert mastery of Graph Theory, Dynamic Programming (Bitmask, Tree DP, CHT), and Advanced Data Structures (Segment Trees, Sparse Tables).
-*   🏆 **Rankings:** Codeforces Expert, IEEEXtreme Global Rank 911, and ECPC University Qualifier (Rank 18/300+).
+- 🔭 **Focus:** real-time backend systems and high-performance APIs
+- 🧠 **Strengths:** graph theory, dynamic programming (bitmask, tree DP, CHT), advanced data structures (segment trees, sparse tables)
+- 🏆 **Rankings:** Codeforces Expert · IEEEXtreme global rank 911 · ECPC university qualifier, rank 18 of 300+
 
----
+## 🏛️ Leadership & mentoring
 
-### 🏛️ Leadership & Mentoring
+- **President & Community Leader, ACPC Damietta University** — lead four committees of the university's largest technical community
+- **Technical Head & Mentor** — designed a Data Structures & Algorithms curriculum for **500+ students** and managed **40 mentors and problem setters**
+- **Head of CP Committee, IEEE Damietta Branch** — run workshops on competitive programming and problem solving
 
-I believe in scaling impact through knowledge sharing. My leadership roles involve not just management, but the technical architecting of entire learning ecosystems.
+## 🛠️ Tech stack
 
-*   **President & Community Leader @ ACPC Damietta University:** Leading a cross-functional organization of 4 committees to foster the university's largest technical community.
-*   **Technical Head & Mentor:** Architected a comprehensive Data Structures & Algorithms curriculum for **500+ students**. Managed a dedicated team of **40 mentors and problem setters** to drive national-level competition success.
-*   **Head of CP Committee @ IEEE Damietta Branch:** Spearheading intensive workshops on competitive programming and advanced problem-solving techniques.
-
----
-
-### 🛠️ Technical Stack
-
-| Category | Technologies |
+| | |
 | :--- | :--- |
-| **Languages** | `C++ (Problem Solving)`, `JavaScript (ES6+)`, `TypeScript`, `Python`, `SQL` |
-| **Backend** | `Node.js`, `Express.js`, `Socket.IO`, `RESTful APIs`, `JWT`, `Cron Jobs` |
-| **Databases** | `PostgreSQL`, `MongoDB`, `MySQL`, `Neo4j`, `Redis`, `SQL Server` |
-| **Environment** | `Git`, `Docker`, `Linux`, `Vercel`, `Railway`, `Jest (Unit Testing)` |
+| **Languages** | `C++` `JavaScript (ES6+)` `TypeScript` `Python` `SQL` |
+| **Backend** | `Node.js` `Express.js` `Socket.IO` `REST APIs` `JWT` `Cron jobs` |
+| **Databases** | `PostgreSQL` `MongoDB` `MySQL` `Neo4j` `Redis` `SQL Server` |
+| **Tools** | `Git` `Docker` `Linux` `Vercel` `Railway` `Jest` |
+
+## 💻 Featured projects
+
+| Project | What it is |
+| :--- | :--- |
+| 🚄 **[Railway-to-ACPC](https://github.com/B-Elbably/Railway-to-ACPC)** | An 8-month roadmap and solution library for national-level contest preparation: **50+ C++ templates** (graphs, trees, range queries, number theory, geometry) and **1,000+ archived solutions** sorted by judge and topic. `C++` |
+| 📡 **[ACPC-Damietta-website](https://github.com/B-Elbably/ACPC-Damietta-website)** | "DU ECHO", the community platform of Damietta University's competitive programming club: MVC architecture, role-based access (user, council, admin), CSRF protection, Zod validation, blog with voting, and contest standings import. `Node.js` `Express` `MongoDB` `EJS` |
+| 🐍 **[python-survival-kit](https://github.com/B-Elbably/python-survival-kit)** | A quick-reference of Python implementations for competitive programming: graphs, DP, segment trees and BITs, number theory, searching and sorting. `Python` |
+
+## 📊 Competitive profiles
+
+| Platform | Handle |
+| :--- | :--- |
+| Codeforces (main) | [Belal.echo](https://codeforces.com/profile/Belal.echo) — Expert, max 1646 |
+| Codeforces (alt) | [Belal](https://codeforces.com/profile/Belal) |
+| CSES | [User 277252](https://cses.fi/user/277252) |
+| LeetCode | [belalelbably700](https://leetcode.com/u/belalelbably700/) |
 
 ---
 
-### 💻 Featured Engineering Projects
-
-#### 🚄 [Railway to ACPC](https://github.com/B-Elbably/Railway-to-ACPC) 
-*An 8-month algorithmic roadmap and implementation library for national-level preparation.*
-*   **The Impact:** Implemented **50+ optimized C++ templates** for advanced data structures, utilized as a standard training resource for university teams.
-*   **Core Tech:** C++, Competitive Programming, Algorithmic Optimization.
-
-#### 📡 [ACPC-DU Echo](https://github.com/B-Elbably/CF-Echo)
-*A real-time ranking backend and community archival system.*
-*   **The Impact:** Engineered a WebSocket-driven architecture for live data synchronization. Utilized MongoDB aggregation pipelines to maintain low-latency performance under high-concurrency.
-*   **Core Tech:** Node.js, Express, MongoDB, Socket.IO.
-
----
-
-### 📊 Competitive Profiles
-*   **Codeforces (Main):** [Belal.echo](https://codeforces.com/profile/Belal.echo) (Expert, Max 1646)
-*   **Codeforces (Alt):** [Belal](https://codeforces.com/profile/Belal)
-*   **CSES:** [User 277252](https://cses.fi/user/277252)
-*   **LeetCode:** [belalelbably700](https://leetcode.com/u/belalelbably700/)
-
----
-
-<p align="center">
-  <em>"Optimization is a journey, not a destination. Always learning, always building."</em> 🚀
-</p>
+<p align="center"><em>Optimization is a journey, not a destination. Always learning, always building.</em></p>
