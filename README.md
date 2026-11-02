@@ -4,7 +4,7 @@
 
 # Belal Elbably
 
-**Software Engineer · Codeforces Expert (1646) · Community Leader**
+**Software Engineer · Codeforces Expert (1646) · ACPC Finalist · Community Leader**
 
 Damietta University '27 — turning complex logic into high-performance systems.
 
@@ -24,6 +24,7 @@ I'm a software engineer who looks at code through an algorithmic lens. After sol
 - 🔭 **Focus:** real-time backend systems and high-performance APIs
 - 🧠 **Strengths:** graph theory, dynamic programming (bitmask, tree DP, CHT), advanced data structures (segment trees, sparse tables)
 - 🏆 **Rankings:** Codeforces Expert · IEEEXtreme global rank 911 · ECPC university qualifier, rank 18 of 300+
+- 🥇 **Contests:** ACPC finalist · ranked 1st among my university's teams in the ECPC qualification
 
 ## 🏛️ Leadership & mentoring
 
