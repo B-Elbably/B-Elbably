@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="belal.png" width="160" style="border-radius: 50%; border: 3px solid #1F8ACB; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" alt="Belal Elbably" />
+  <img src="assets/belal.png" width="160" style="border-radius: 50%; border: 3px solid #1F8ACB; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" alt="Belal Elbably" />
   
   <h1>Hi, I'm Belal Elbably! 👋</h1>
   
