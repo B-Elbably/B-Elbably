@@ -24,7 +24,7 @@ I'm a software engineer who looks at code through an algorithmic lens. After sol
 - 🔭 **Focus:** real-time backend systems and high-performance APIs
 - 🧠 **Strengths:** graph theory, dynamic programming (bitmask, tree DP, CHT), advanced data structures (segment trees, sparse tables)
 - 🏆 **Rankings:** Codeforces Expert · IEEEXtreme global rank 911 · ECPC university qualifier, rank 18 of 300+
-- 🥇 **Contests:** ACPC finalist · ranked 1st among my university's teams in the ECPC qualification
+- 🥇 **Contests:** ACPC finalist · ranked 1st among Damietta University teams in the 2026 ICPC ECPC Qualifications (Day 2) as team *Birthday Paradox*
 
 ## 🏛️ Leadership & mentoring
 
@@ -37,9 +37,11 @@ I'm a software engineer who looks at code through an algorithmic lens. After sol
 | | |
 | :--- | :--- |
 | **Languages** | `C++` `JavaScript (ES6+)` `TypeScript` `Python` `SQL` |
-| **Backend** | `Node.js` `Express.js` `Socket.IO` `REST APIs` `JWT` `Cron jobs` |
-| **Databases** | `PostgreSQL` `MongoDB` `MySQL` `Neo4j` `Redis` `SQL Server` |
-| **Tools** | `Git` `Docker` `Linux` `Vercel` `Railway` `Jest` |
+| **Backend** | `Node.js` `Express.js` `Socket.IO` `REST APIs` `JWT` `Cron jobs` `Nodemailer` |
+| **Databases & ORM** | `PostgreSQL` `MongoDB` `Mongoose` `MySQL` `Neo4j` `Redis` `SQL Server` |
+| **Security** | `Helmet (CSP)` `CSRF protection` `Rate limiting` `bcrypt` `Session auth` `Zod validation` |
+| **Frontend & templating** | `EJS` `Pug` `Tailwind CSS` |
+| **Tools & DevOps** | `Git` `Docker` `GitHub Actions (CI)` `Linux` `Vercel` `Railway` `Cloudinary` `Jest` `ESLint` `Prettier` |
 
 ## 💻 Featured projects
 
