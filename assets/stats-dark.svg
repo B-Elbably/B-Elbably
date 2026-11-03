@@ -1,19 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="112" viewBox="0 0 900 112" role="img" aria-label="Key stats: Codeforces max rating 1646, 3,500+ problems solved, ECPC finals 81st and ICPC Regional Finalist, 400+ students trained and 6 teams qualified for ECPC finals">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="236" viewBox="0 0 900 236" role="img" aria-label="Key numbers: 3,500+ problems solved, Codeforces max rating 1646, ECPC finals 81st, IEEEXtreme 18.0 global rank 911, 400+ students trained, 40 instructors led">
 <style>text{font-family:Inter,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}</style>
-<rect x="0.0" y="1" width="214.5" height="110" rx="12" fill="#161B22" stroke="#30363D"/>
-<text x="107.2" y="46" text-anchor="middle" font-size="32" font-weight="700" fill="#58A6FF">1646</text>
-<text x="107.2" y="71" text-anchor="middle" font-size="14" font-weight="600" fill="#E6EDF3">Codeforces max rating</text>
-<text x="107.2" y="92" text-anchor="middle" font-size="12" fill="#8B949E">Expert</text>
-<rect x="228.5" y="1" width="214.5" height="110" rx="12" fill="#161B22" stroke="#30363D"/>
-<text x="335.8" y="46" text-anchor="middle" font-size="32" font-weight="700" fill="#58A6FF">3,500+</text>
-<text x="335.8" y="71" text-anchor="middle" font-size="14" font-weight="600" fill="#E6EDF3">problems solved</text>
-<text x="335.8" y="92" text-anchor="middle" font-size="12" fill="#8B949E">3,000+ on Codeforces</text>
-<rect x="457.0" y="1" width="214.5" height="110" rx="12" fill="#161B22" stroke="#30363D"/>
-<text x="564.2" y="46" text-anchor="middle" font-size="32" font-weight="700" fill="#58A6FF">81st</text>
-<text x="564.2" y="71" text-anchor="middle" font-size="14" font-weight="600" fill="#E6EDF3">ECPC finals</text>
-<text x="564.2" y="92" text-anchor="middle" font-size="12" fill="#8B949E">ICPC Regional Finalist</text>
-<rect x="685.5" y="1" width="214.5" height="110" rx="12" fill="#161B22" stroke="#30363D"/>
-<text x="792.8" y="46" text-anchor="middle" font-size="32" font-weight="700" fill="#58A6FF">400+</text>
-<text x="792.8" y="71" text-anchor="middle" font-size="14" font-weight="600" fill="#E6EDF3">students trained</text>
-<text x="792.8" y="92" text-anchor="middle" font-size="12" fill="#8B949E">6 teams to ECPC finals</text>
+<rect x="1" y="1" width="898" height="234" rx="14" fill="#0F1A1A" stroke="#1F3A38"/>
+<rect x="1" y="1" width="898" height="5" rx="2.5" fill="#03A89E"/>
+<line x1="20" y1="120.0" x2="880" y2="120.0" stroke="#1F3A38"/>
+<line x1="300.0" y1="28" x2="300.0" y2="212" stroke="#1F3A38"/>
+<line x1="600.0" y1="28" x2="600.0" y2="212" stroke="#1F3A38"/>
+<text x="150.0" y="66" text-anchor="middle" font-size="34" font-weight="800" fill="#03A89E">3,500+</text>
+<text x="150.0" y="90" text-anchor="middle" font-size="14" font-weight="600" fill="#E6EDF3">problems solved</text>
+<text x="150.0" y="110" text-anchor="middle" font-size="12" fill="#8FB5B0">CF 3,000+ · CSES 200+ · LC 250+</text>
+<text x="450.0" y="66" text-anchor="middle" font-size="34" font-weight="800" fill="#03A89E">1646</text>
+<text x="450.0" y="90" text-anchor="middle" font-size="14" font-weight="600" fill="#E6EDF3">Codeforces max rating</text>
+<text x="450.0" y="110" text-anchor="middle" font-size="12" fill="#8FB5B0">Expert</text>
+<text x="750.0" y="66" text-anchor="middle" font-size="34" font-weight="800" fill="#03A89E">81st</text>
+<text x="750.0" y="90" text-anchor="middle" font-size="14" font-weight="600" fill="#E6EDF3">ECPC finals</text>
+<text x="750.0" y="110" text-anchor="middle" font-size="12" fill="#8FB5B0">ICPC Regional Finalist</text>
+<text x="150.0" y="180" text-anchor="middle" font-size="34" font-weight="800" fill="#03A89E">911th</text>
+<text x="150.0" y="204" text-anchor="middle" font-size="14" font-weight="600" fill="#E6EDF3">IEEEXtreme 18.0 global</text>
+<text x="150.0" y="224" text-anchor="middle" font-size="12" fill="#8FB5B0">3rd at my university</text>
+<text x="450.0" y="180" text-anchor="middle" font-size="34" font-weight="800" fill="#03A89E">400+</text>
+<text x="450.0" y="204" text-anchor="middle" font-size="14" font-weight="600" fill="#E6EDF3">students trained</text>
+<text x="450.0" y="224" text-anchor="middle" font-size="12" fill="#8FB5B0">over two years</text>
+<text x="750.0" y="180" text-anchor="middle" font-size="34" font-weight="800" fill="#03A89E">40</text>
+<text x="750.0" y="204" text-anchor="middle" font-size="14" font-weight="600" fill="#E6EDF3">instructors led</text>
+<text x="750.0" y="224" text-anchor="middle" font-size="12" fill="#8FB5B0">as Technical Head</text>
 </svg>
