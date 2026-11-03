@@ -2,7 +2,7 @@
 
 <img src="assets/banner.png" alt="Belal Elbably, Software Developer" width="100%" />
 
-**Backend software engineer · Codeforces Expert · ICPC Regional Finalist · Community Leader**
+**Software Engineer · Competitive Programmer · Community Leader**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elbably)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belal.m.elbably@gmail.com)
@@ -11,18 +11,24 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
-  <img src="assets/stats-light.svg" alt="Key stats: Codeforces max rating 1646, 3,000+ problems solved, ECPC finals 81st and ICPC Regional Finalist, 500+ students trained" width="100%" />
+  <img src="assets/stats-light.svg" alt="Key stats: Codeforces max rating 1646, 3,500+ problems solved, ECPC finals 81st and ICPC Regional Finalist, 400+ students trained and 6 teams qualified for ECPC finals" width="100%" />
 </picture>
 
 </div>
 
 ## About
 
-I build Node.js APIs with secure authentication and clean architecture, backed by **3,000+ solved problems** on Codeforces, AtCoder, CSES and LeetCode. B.Sc. Computer Science, Damietta University (graduating July 2027). Based in Damietta, Egypt.
+I'm a software engineer, competitive programmer and community leader. I build backend APIs with Node.js, Django and FastAPI, and I've solved **3,500+ problems** on Codeforces (3,000+), CSES (200+), LeetCode (250+), AtCoder, HackerRank and more. B.Sc. Computer Science, Damietta University (graduating July 2027). Based in Damietta, Egypt.
 
-**Currently:** Community Leader at ACPC Damietta University, Head of the Competitive Programming Committee at IEEE Damietta Branch, and founder of the Damietta Competitive Contest (DCC).
+**Currently:** Community Leader at ACPC Damietta University and founder of the Damietta Competitive Contest (DCC).
+
+**Learning:** RAG, LLMs, system design, cloud and DevOps.
 
 **Open to:** freelance work and collaborations. Reach me on [LinkedIn](https://linkedin.com/in/elbably) or by [email](mailto:belal.m.elbably@gmail.com).
+
+**Interests:** entrepreneurship, teaching, community building.
+
+**Goals:** reach Candidate Master on Codeforces and compete at the ICPC World Finals.
 
 ## Tech stack
 
@@ -31,6 +37,8 @@ I build Node.js APIs with secure authentication and clean architecture, backed b
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -48,21 +56,21 @@ I build Node.js APIs with secure authentication and clean architecture, backed b
 | Area | Technologies |
 | :--- | :--- |
 | **Languages** | `Python` `C++` `JavaScript` `TypeScript` `SQL` |
-| **Backend** | `Node.js` `Express.js` `REST API design` `JWT authentication` `RBAC` `MVC` `Mongoose` |
+| **Backend** | `Django` `FastAPI` `Node.js` `Express.js` `REST API design` `JWT authentication` `RBAC` `MVC` `Mongoose` |
 | **Databases** | `MongoDB` `PostgreSQL` `MySQL` `SQLite` `Neo4j` `SQL Server` |
 | **Cloud & DevOps** | `Docker` `Linux / Unix` `Git workflows` `Railway` `Vercel` |
 | **Testing** | `Jest` `Vitest` |
+| **Exploring** | `RAG` `LLMs` `System design` `Cloud` `DevOps` |
 | **Computer science** | Data structures, algorithms, graph theory, dynamic programming, OOP, operating systems, computer networks, database systems |
 
 </details>
 
 ## Featured projects
 
-- **[Damietta Competitive Contest (DCC)](https://www.dcchub.xyz/)**: the first collegiate competitive programming contest in Damietta, open to the city's universities and institutes. I founded it and lead its scientific, media and organization committees.
 - **[iLoveMarked](https://ilovemarked.online)**: privacy-first Markdown-to-LinkedIn converter with Arabic RTL support, an offline PWA and PDF export.
 - **[Railway-to-ACPC](https://github.com/B-Elbably/Railway-to-ACPC)**: 870+ algorithmic solutions and 50+ C++ templates with workspace automation scripts.
-- **[ACPC-Damietta-website](https://github.com/B-Elbably/ACPC-Damietta-website)**: "DU ECHO", an Express and MongoDB community platform with role-based access and CSRF protection.
-- **[python-survival-kit](https://github.com/B-Elbably/python-survival-kit)**: Python reference implementations of graph, DP and data-structure algorithms.
+- **[python-survival-kit](https://github.com/B-Elbably/python-survival-kit)**: data structures and algorithms in Python, a quick reference for Python programmers.
+- **mini-rag-app** (in development): a Retrieval-Augmented Generation app that turns uploaded documents into searchable chunks for AI question answering. Python, FastAPI, MongoDB, LangChain.
 
 ## Honors & experience
 
@@ -88,10 +96,10 @@ I build Node.js APIs with secure authentication and clean architecture, backed b
 
 | Role | Period | Impact |
 | :--- | :--- | :--- |
-| **Founder & Leader**, Damietta Competitive Contest (DCC) | 2026 – present | Founded the first collegiate programming contest in Damietta and lead its scientific, media and organization committees, from planning through the final round |
-| **Community Leader**, ACPC Damietta University | Mar 2026 – present | Run the whole community: media, organization, R&D and PR; coordinate training for teams preparing for regional contests |
-| **Head of Competitive Programming Committee**, IEEE Damietta Branch | Mar 2025 – present | Organize advanced problem-solving workshops and prepare students for IEEEXtreme and ICPC |
-| **Technical Head & Instructor**, ACPC Damietta University | Nov 2024 – Oct 2025 | Managed training, sessions and problem setting: created a full Data Structures & Algorithms curriculum for 500+ students, led 40 instructors, and mentored several teams to ECPC qualification |
+| **Founder, Manager & PR**, [Damietta Competitive Contest (DCC)](https://dcchub.xyz/) | 2026 – present | Founded an ICPC-style programming competition for Damietta's universities and institutes, and run it from planning through the final round |
+| **Community Leader**, ACPC Damietta University | Mar 2026 – present | Run the whole community: managed Technical, Media, HR, PR and OC teams. **400+ students trained over two years**; **6 teams qualified for ECPC finals** and **3 for ACPC finals**. Built partnerships with CSKiller Academy, 7D Hub and Zawolf.ai |
+| **Head of Competitive Programming Committee**, IEEE Damietta Branch | Mar 2025 – Sep 2026 | Organized advanced problem-solving workshops and prepared students for IEEEXtreme and ICPC |
+| **Technical Head & Instructor**, ACPC Damietta University | Nov 2024 – Oct 2025 | Managed training, sessions and problem setting: created a full Data Structures & Algorithms curriculum, led 40 instructors, and mentored several teams to ECPC qualification |
 
 **Events organized**
 
@@ -108,10 +116,11 @@ I build Node.js APIs with secure authentication and clean architecture, backed b
 
 | Platform | Profile |
 | :--- | :--- |
-| Codeforces (main) | [Belal.echo](https://codeforces.com/profile/Belal.echo) — Expert, max 1646 |
+| Codeforces (main) | [Belal.echo](https://codeforces.com/profile/Belal.echo) — Expert, max 1646, 3,000+ solved |
 | Codeforces (alt) | [Belal](https://codeforces.com/profile/Belal) |
-| CSES | [User 277252](https://cses.fi/user/277252) |
-| LeetCode | [belalelbably700](https://leetcode.com/u/belalelbably700/) |
+| CSES | [Fire_force](https://cses.fi/user/277252) — 200+ solved |
+| LeetCode | [belalelbably700](https://leetcode.com/u/belalelbably700/) — 250+ solved |
+| Also | AtCoder, HackerRank and others |
 
 </details>
 
