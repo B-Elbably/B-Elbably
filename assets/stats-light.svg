@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="112" viewBox="0 0 900 112" role="img" aria-label="Key stats: Codeforces max rating 1646, 3000+ problems solved, ECPC finals 81st and ICPC Regional Finalist, 500+ students trained">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="112" viewBox="0 0 900 112" role="img" aria-label="Key stats: Codeforces max rating 1646, 3,500+ problems solved, ECPC finals 81st and ICPC Regional Finalist, 400+ students trained and 6 teams qualified for ECPC finals">
 <style>text{font-family:Inter,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}</style>
 <rect x="0.0" y="1" width="214.5" height="110" rx="12" fill="#F6F8FA" stroke="#D0D7DE"/>
 <text x="107.2" y="46" text-anchor="middle" font-size="32" font-weight="700" fill="#0969DA">1646</text>
 <text x="107.2" y="71" text-anchor="middle" font-size="14" font-weight="600" fill="#1F2328">Codeforces max rating</text>
 <text x="107.2" y="92" text-anchor="middle" font-size="12" fill="#57606A">Expert</text>
 <rect x="228.5" y="1" width="214.5" height="110" rx="12" fill="#F6F8FA" stroke="#D0D7DE"/>
-<text x="335.8" y="46" text-anchor="middle" font-size="32" font-weight="700" fill="#0969DA">3,000+</text>
+<text x="335.8" y="46" text-anchor="middle" font-size="32" font-weight="700" fill="#0969DA">3,500+</text>
 <text x="335.8" y="71" text-anchor="middle" font-size="14" font-weight="600" fill="#1F2328">problems solved</text>
-<text x="335.8" y="92" text-anchor="middle" font-size="12" fill="#57606A">CF · AtCoder · CSES · LeetCode</text>
+<text x="335.8" y="92" text-anchor="middle" font-size="12" fill="#57606A">3,000+ on Codeforces</text>
 <rect x="457.0" y="1" width="214.5" height="110" rx="12" fill="#F6F8FA" stroke="#D0D7DE"/>
 <text x="564.2" y="46" text-anchor="middle" font-size="32" font-weight="700" fill="#0969DA">81st</text>
 <text x="564.2" y="71" text-anchor="middle" font-size="14" font-weight="600" fill="#1F2328">ECPC finals</text>
 <text x="564.2" y="92" text-anchor="middle" font-size="12" fill="#57606A">ICPC Regional Finalist</text>
 <rect x="685.5" y="1" width="214.5" height="110" rx="12" fill="#F6F8FA" stroke="#D0D7DE"/>
-<text x="792.8" y="46" text-anchor="middle" font-size="32" font-weight="700" fill="#0969DA">500+</text>
+<text x="792.8" y="46" text-anchor="middle" font-size="32" font-weight="700" fill="#0969DA">400+</text>
 <text x="792.8" y="71" text-anchor="middle" font-size="14" font-weight="600" fill="#1F2328">students trained</text>
-<text x="792.8" y="92" text-anchor="middle" font-size="12" fill="#57606A">40 instructors led</text>
+<text x="792.8" y="92" text-anchor="middle" font-size="12" fill="#57606A">6 teams to ECPC finals</text>
 </svg>
