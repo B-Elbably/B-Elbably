@@ -4,9 +4,9 @@
 
 # Belal Elbably
 
-**Software Engineer · Codeforces Expert (1646) · ACPC Finalist · Community Leader**
+**Software Engineer · Codeforces Expert (1646) · ICPC Regional Finalist · Community Leader**
 
-Faculty of Computers and Artificial Intelligence, Damietta University · Graduating July 2027
+B.Sc. Computer Science · Faculty of Computers and Artificial Intelligence, Damietta University · Graduating July 2027
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elbably)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belal.m.elbably@gmail.com)
@@ -27,19 +27,19 @@ I'm a backend-focused software engineer with a competitive-programming backgroun
 
 ## 🏆 Honors & competitions
 
-- **ICPC / ACPC:** ACPC finalist
-- **ECPC 2027 qualification:** ranked 1st among my university's teams; team **Birthday Paradox** finished **6th overall on Day 2** with a first solve ([standings](https://icpc.global/regionals/finder/ECPCQDAYTWO-2027/standings))
-- **ECPC university qualifiers:** 18th place among 300+ teams
+- **ECPC finals:** 81st place, 6 problems solved, as team **Birthday Paradox** — **ICPC Regional Finalist**
+- **ECPC 2027 qualification:** **6th place**, 8 problems solved, with a first solve; ranked 1st among my university's teams ([standings](https://icpc.global/regionals/finder/ECPCQDAYTWO-2027/standings))
 - **IEEEXtreme 18.0:** 3rd university-wide and **911th globally** out of 5,800+ participants
+- **ECPC university qualifiers (earlier attempt):** 18th place among 300+ teams
 - **Codeforces:** Expert, max rating **1646** ([Belal.echo](https://codeforces.com/profile/Belal.echo))
 
 ## 🏛️ Leadership & mentoring
 
 | Role | Period | Impact |
 | :--- | :--- | :--- |
-| **Community Leader**, ACPC Damietta University | Mar 2026 – present | Direct a 60-member team across Technical, HR, Media and Operations committees; coordinate training for teams preparing for regional contests |
+| **Community Leader**, ACPC Damietta University | Mar 2026 – present | Run the whole community: media, organization, R&D and PR; coordinate training for teams preparing for regional contests |
 | **Head of Competitive Programming Committee**, IEEE Damietta Branch | Mar 2025 – present | Organize advanced problem-solving workshops and prepare students for IEEEXtreme and ICPC |
-| **Technical Head & Instructor**, ACPC Damietta University | Nov 2024 – Oct 2025 | Created a full Data Structures & Algorithms curriculum for 250+ students, led 40 instructors, and mentored several teams to ECPC qualification |
+| **Technical Head & Instructor**, ACPC Damietta University | Nov 2024 – Oct 2025 | Managed training, sessions and problem setting: created a full Data Structures & Algorithms curriculum for 500+ students, led 40 instructors, and mentored several teams to ECPC qualification |
 
 ## 🛠️ Technical skills
 
@@ -47,7 +47,7 @@ I'm a backend-focused software engineer with a competitive-programming backgroun
 | :--- | :--- |
 | **Languages** | `Python` `C++` `JavaScript` `TypeScript` `SQL` |
 | **Backend** | `Node.js` `Express.js` `REST API design` `JWT authentication` `RBAC` `MVC` `Mongoose` |
-| **Databases** | `MongoDB` `PostgreSQL` `MySQL` `SQLite` |
+| **Databases** | `MongoDB` `PostgreSQL` `MySQL` `SQLite` `Neo4j` `SQL Server` |
 | **Cloud & DevOps** | `Docker` `Linux / Unix` `Git workflows` `Railway` `Vercel` |
 | **Testing** | `Jest` `Vitest` |
 | **Computer science** | Data structures, algorithms, graph theory, dynamic programming, OOP, operating systems, computer networks, database systems |
