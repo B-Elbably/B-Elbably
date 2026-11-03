@@ -18,9 +18,11 @@
 
 ## About
 
-I build Node.js APIs with secure authentication and clean architecture, backed by **3,000+ solved problems** on Codeforces, AtCoder, CSES and LeetCode. B.Sc. Computer Science, Damietta University (graduating July 2027).
+I build Node.js APIs with secure authentication and clean architecture, backed by **3,000+ solved problems** on Codeforces, AtCoder, CSES and LeetCode. B.Sc. Computer Science, Damietta University (graduating July 2027). Based in Damietta, Egypt.
 
-**Currently:** Community Leader at ACPC Damietta University and Head of the Competitive Programming Committee at IEEE Damietta Branch.
+**Currently:** Community Leader at ACPC Damietta University, Head of the Competitive Programming Committee at IEEE Damietta Branch, and founder of the Damietta Competitive Contest (DCC).
+
+**Open to:** freelance work and collaborations. Reach me on [LinkedIn](https://linkedin.com/in/elbably) or by [email](mailto:belal.m.elbably@gmail.com).
 
 ## Tech stack
 
@@ -56,6 +58,7 @@ I build Node.js APIs with secure authentication and clean architecture, backed b
 
 ## Featured projects
 
+- **[Damietta Competitive Contest (DCC)](https://www.dcchub.xyz/)**: the first collegiate competitive programming contest in Damietta, open to the city's universities and institutes. I founded it and lead its scientific, media and organization committees.
 - **[iLoveMarked](https://ilovemarked.online)**: privacy-first Markdown-to-LinkedIn converter with Arabic RTL support, an offline PWA and PDF export.
 - **[Railway-to-ACPC](https://github.com/B-Elbably/Railway-to-ACPC)**: 870+ algorithmic solutions and 50+ C++ templates with workspace automation scripts.
 - **[ACPC-Damietta-website](https://github.com/B-Elbably/ACPC-Damietta-website)**: "DU ECHO", an Express and MongoDB community platform with role-based access and CSRF protection.
@@ -85,9 +88,16 @@ I build Node.js APIs with secure authentication and clean architecture, backed b
 
 | Role | Period | Impact |
 | :--- | :--- | :--- |
+| **Founder & Leader**, Damietta Competitive Contest (DCC) | 2026 – present | Founded the first collegiate programming contest in Damietta and lead its scientific, media and organization committees, from planning through the final round |
 | **Community Leader**, ACPC Damietta University | Mar 2026 – present | Run the whole community: media, organization, R&D and PR; coordinate training for teams preparing for regional contests |
 | **Head of Competitive Programming Committee**, IEEE Damietta Branch | Mar 2025 – present | Organize advanced problem-solving workshops and prepare students for IEEEXtreme and ICPC |
 | **Technical Head & Instructor**, ACPC Damietta University | Nov 2024 – Oct 2025 | Managed training, sessions and problem setting: created a full Data Structures & Algorithms curriculum for 500+ students, led 40 instructors, and mentored several teams to ECPC qualification |
+
+**Events organized**
+
+- Damietta Competitive Contest (DCC), founded and led from planning to the final round
+- ACPC DU Newcomers Event 2026, 13 October 2026, Faculty of Computers and AI, Damietta University
+- Training sessions and workshops for IEEE Damietta Branch members
 
 </details>
 
