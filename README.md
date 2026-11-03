@@ -2,9 +2,7 @@
 
 <img src="assets/banner.png" alt="Belal Elbably, Software Developer" width="100%" />
 
-**Software Engineer · Codeforces Expert · ICPC Regional Finalist · Community Leader**
-
-B.Sc. Computer Science · Faculty of Computers and Artificial Intelligence, Damietta University · Graduating July 2027
+**Backend software engineer · Codeforces Expert · ICPC Regional Finalist · Community Leader**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elbably)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belal.m.elbably@gmail.com)
@@ -20,31 +18,30 @@ B.Sc. Computer Science · Faculty of Computers and Artificial Intelligence, Dami
 
 ## About
 
-I'm a backend-focused software engineer with a competitive-programming background: **3,000+ problems solved** across Codeforces, AtCoder, CSES and LeetCode. I build Node.js APIs with secure authentication and clean architecture, and I lead student communities that teach people to solve problems well.
+I build Node.js APIs with secure authentication and clean architecture, backed by **3,000+ solved problems** on Codeforces, AtCoder, CSES and LeetCode. B.Sc. Computer Science, Damietta University (graduating July 2027).
 
-- **Focus:** backend engineering (REST APIs, JWT auth, RBAC, MVC) and high-performance systems
-- **Core strengths:** data structures and algorithms, graph theory, dynamic programming
-- **Day to day:** Node.js · Express · MongoDB · Docker · Linux · Git
+**Currently:** Community Leader at ACPC Damietta University and Head of the Competitive Programming Committee at IEEE Damietta Branch.
 
-## Honors & competitions
+## Tech stack
 
-| Event | Result |
-| :--- | :--- |
-| **ECPC finals** | 81st place, 6 problems solved, team *Birthday Paradox* — **ICPC Regional Finalist** |
-| **ECPC 2027 qualification** | **6th place**, 8 problems solved, with a first solve; 1st among my university's teams ([standings](https://icpc.global/regionals/finder/ECPCQDAYTWO-2027/standings)) |
-| **IEEEXtreme 18.0** | 3rd university-wide, **911th globally** out of 5,800+ participants |
-| **ECPC qualifiers (earlier attempt)** | 18th place among 300+ teams |
-| **Codeforces** | Expert, max rating **1646** ([Belal.echo](https://codeforces.com/profile/Belal.echo)) |
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
-## Leadership & mentoring
+<details>
+<summary>Full skills list</summary>
 
-| Role | Period | Impact |
-| :--- | :--- | :--- |
-| **Community Leader**, ACPC Damietta University | Mar 2026 – present | Run the whole community: media, organization, R&D and PR; coordinate training for teams preparing for regional contests |
-| **Head of Competitive Programming Committee**, IEEE Damietta Branch | Mar 2025 – present | Organize advanced problem-solving workshops and prepare students for IEEEXtreme and ICPC |
-| **Technical Head & Instructor**, ACPC Damietta University | Nov 2024 – Oct 2025 | Managed training, sessions and problem setting: created a full Data Structures & Algorithms curriculum for 500+ students, led 40 instructors, and mentored several teams to ECPC qualification |
-
-## Technical skills
+<br />
 
 | Area | Technologies |
 | :--- | :--- |
@@ -55,16 +52,49 @@ I'm a backend-focused software engineer with a competitive-programming backgroun
 | **Testing** | `Jest` `Vitest` |
 | **Computer science** | Data structures, algorithms, graph theory, dynamic programming, OOP, operating systems, computer networks, database systems |
 
+</details>
+
 ## Featured projects
 
-| Project | What it is |
-| :--- | :--- |
-| **[iLoveMarked](https://ilovemarked.online)** | Free, privacy-first converter that turns Markdown into formatted LinkedIn posts, entirely in the browser. Native Arabic BiDi/RTL support, offline-first PWA, 50-state undo/redo, local draft history, PDF export, and unit tests with Vitest.<br>*JavaScript · Vite · Tailwind · PWA* |
-| **[Railway-to-ACPC](https://github.com/B-Elbably/Railway-to-ACPC)** | Curated library of 870+ algorithmic solutions and 50+ C++ templates, with automated Python and Bash scripts that organize the workspace.<br>*C++ · Python · Bash* |
-| **[ACPC-Damietta-website](https://github.com/B-Elbably/ACPC-Damietta-website)** | "DU ECHO", the community platform of Damietta University's competitive programming club: MVC architecture, role-based access (user, council, admin), CSRF protection, Zod validation, blog with voting, and contest standings import.<br>*Node.js · Express · MongoDB · EJS* |
-| **[python-survival-kit](https://github.com/B-Elbably/python-survival-kit)** | Quick-reference Python implementations for competitive programming: graphs, DP, segment trees and BITs, number theory, searching and sorting.<br>*Python* |
+- **[iLoveMarked](https://ilovemarked.online)**: privacy-first Markdown-to-LinkedIn converter with Arabic RTL support, an offline PWA and PDF export.
+- **[Railway-to-ACPC](https://github.com/B-Elbably/Railway-to-ACPC)**: 870+ algorithmic solutions and 50+ C++ templates with workspace automation scripts.
+- **[ACPC-Damietta-website](https://github.com/B-Elbably/ACPC-Damietta-website)**: "DU ECHO", an Express and MongoDB community platform with role-based access and CSRF protection.
+- **[python-survival-kit](https://github.com/B-Elbably/python-survival-kit)**: Python reference implementations of graph, DP and data-structure algorithms.
 
-## Competitive profiles
+## Honors & experience
+
+<details>
+<summary>Competitions and honors</summary>
+
+<br />
+
+| Event | Result |
+| :--- | :--- |
+| **ECPC finals** | 81st place, 6 problems solved, team *Birthday Paradox* — **ICPC Regional Finalist** |
+| **ECPC 2027 qualification** | **6th place**, 8 problems solved, with a first solve; 1st among my university's teams ([standings](https://icpc.global/regionals/finder/ECPCQDAYTWO-2027/standings)) |
+| **IEEEXtreme 18.0** | 3rd university-wide, **911th globally** out of 5,800+ participants |
+| **ECPC qualifiers (earlier attempt)** | 18th place among 300+ teams |
+| **Codeforces** | Expert, max rating **1646** ([Belal.echo](https://codeforces.com/profile/Belal.echo)) |
+
+</details>
+
+<details>
+<summary>Leadership and mentoring</summary>
+
+<br />
+
+| Role | Period | Impact |
+| :--- | :--- | :--- |
+| **Community Leader**, ACPC Damietta University | Mar 2026 – present | Run the whole community: media, organization, R&D and PR; coordinate training for teams preparing for regional contests |
+| **Head of Competitive Programming Committee**, IEEE Damietta Branch | Mar 2025 – present | Organize advanced problem-solving workshops and prepare students for IEEEXtreme and ICPC |
+| **Technical Head & Instructor**, ACPC Damietta University | Nov 2024 – Oct 2025 | Managed training, sessions and problem setting: created a full Data Structures & Algorithms curriculum for 500+ students, led 40 instructors, and mentored several teams to ECPC qualification |
+
+</details>
+
+<details>
+<summary>Competitive profiles</summary>
+
+<br />
 
 | Platform | Profile |
 | :--- | :--- |
@@ -73,4 +103,8 @@ I'm a backend-focused software engineer with a competitive-programming backgroun
 | CSES | [User 277252](https://cses.fi/user/277252) |
 | LeetCode | [belalelbably700](https://leetcode.com/u/belalelbably700/) |
 
-<p align="center"><sub>Optimization is a journey, not a destination. Always learning, always building.</sub></p>
+</details>
+
+## Get in touch
+
+[LinkedIn](https://linkedin.com/in/elbably) · [Email](mailto:belal.m.elbably@gmail.com) · [Codeforces](https://codeforces.com/profile/Belal.echo) · [LeetCode](https://leetcode.com/u/belalelbably700/)
